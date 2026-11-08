@@ -1,0 +1,12 @@
+.git
+.playwright
+.vercel-cli
+node_modules
+dist
+tests
+AGENTS.md
+AGENTS.project-init-backup.md
+tasks
+Dockerfile
+compose.yaml
+.env*

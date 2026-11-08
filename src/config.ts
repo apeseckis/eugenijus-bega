@@ -1,0 +1,1 @@
+export const C = {width:1280,height:720,ground:560,playerX:370,speed:300,gravity:1800,jump:-720,firstSpawn:3.2,spacing:1.9,pitWidth:135,invulnerability:0.8,recoveryDelay:2.5,recoveryRate:6,pursuerEase:3,pursuerJumpLead:80,pursuerJumpTrail:65,pursuerJumpHeight:135};
